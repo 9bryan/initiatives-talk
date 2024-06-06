@@ -5,6 +5,7 @@
 1. Instructions:
   * `docker compose build`
   * `docker compose up -d`
+  * Wait a couple minutes
   * Provision wordpress at `http://<hostname>:8001`
-  * Leave a comment
+  * Create a post and Leave a comment
   * Access Redpanda UI at `http://<hostname>:8080`
