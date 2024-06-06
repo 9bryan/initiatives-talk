@@ -6,4 +6,5 @@
   * `docker compose build`
   * `docker compose up -d`
   * Provision wordpress at `http://<hostname>:8001`
+  * Leave a comment
   * Access Redpanda UI at `http://<hostname>:8080`
